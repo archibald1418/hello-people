@@ -8,7 +8,7 @@ def calc_root(n, limit):
 
 n = int(input("Введите основание корня: "))
 
-for i in [10, 100, 1000]: # Test whether accuracy improves
+for i in [10, 100, 1000]: # Test on whether accuracy improves
 	print(calc_root(n, i), '\n')
 
 
