@@ -1,2 +1,2 @@
 # hello-people
-trial repo<<<<<<< masterhere is me writing some shit for the second time on github. Hoping to compare it with two branches.======Here is me writing some shit on github for the first time. The further the better. Hope you all hating it.>>>>>>> readme-edi
+trial repo
