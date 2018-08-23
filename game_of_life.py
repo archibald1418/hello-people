@@ -58,7 +58,7 @@ def blinker (y0, x0): # From the left lowest
 
     return [(y0, x0), (y1, x1), (y2, x2)]
 
-def rpentamino (y0, x0): # From the lowest
+def rpentomino (y0, x0): # From the lowest
     
     y1, x1 = y0 - 1, x0
     y2, x2 = y1, x1 - 1
@@ -189,10 +189,10 @@ def check_config ():
     options = {'1':glider,
                '2':beacon,
                '3':blinker,
-               '4':rpentamino, 
+               '4':rpentomino, 
                '5':spaceship,
-               '6':square,     # New
-               '7':triangle,   # New
+               '6':square,     
+               '7':triangle,   
                '8':full,
                '9':glider}
     
