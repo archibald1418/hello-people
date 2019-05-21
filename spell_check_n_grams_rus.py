@@ -1,6 +1,6 @@
 '''Spell-check при помощи исчисления и распределения триграм.'''
 
-file = open("file1.py")
+file = open("file1.py") # Файл для обучения
 text = file.read()
 file.close()
 
