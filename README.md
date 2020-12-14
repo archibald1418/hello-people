@@ -1,3 +1,3 @@
 # hello-people
 trial repo
-Here is me writing some shit on github for the first time. The further the better. Hope you all hating it.
+Here is me writing some stuff on github for the first time.
